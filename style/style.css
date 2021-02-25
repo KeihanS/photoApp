@@ -11,8 +11,10 @@
 }
 
 img {
-	width: 1024px;
-	height: 100%;
+	/*width: 1024px;
+	height: 100%; */
+	width: 100%;
+	height: auto;
 	border-radius: 10px;
 	margin-top: 3%;
 	box-shadow: 5px 10px 8px #888888;
