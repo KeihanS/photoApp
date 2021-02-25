@@ -9,6 +9,11 @@
 #wrapper {
 	padding: 0px 10%;
 }
+@media only screen and (max-width: 600px) {
+	#wrapper {
+		padding: 0px;
+	}
+}
 
 img {
 	/*width: 1024px;
